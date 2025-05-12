@@ -1,4 +1,4 @@
-# 8-Week AI Agent Learning Plan for CS Freshman (Summer Break)
+# 8-Week AI Agent Learning Plan
 
 ## Week 1: Foundations - Developer Skills & Linear Algebra
 
